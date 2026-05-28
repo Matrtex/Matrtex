@@ -4,8 +4,6 @@
 
 ### Software Developer | Power Platform | Web Development | Cloud & Network Tooling
 
-收录倦。妒闻，且自新，改性情，休恋逝水，苦海回身，早悟兰因。
-
 </div>
 
 ---
@@ -56,12 +54,6 @@
 
 ---
 
-## Contact
-
-- Website: https://b.simplenull.com
-- GitHub: https://github.com/Matrtex
-
----
 
 <div align="center">
 
