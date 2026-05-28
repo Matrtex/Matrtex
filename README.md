@@ -50,49 +50,9 @@
 
 ## GitHub Stats
 
-<div align="center">
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?show_icons=true&theme=default&username=Matrtex)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matrtex&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrtex&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matrtex&hide_border=true" />
-
-</div>
-
----
-
-## Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Matrtex&hide_border=true" />
-
-</div>
-
----
-
-## Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/Matrtex/gcp_free">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrtex&repo=gcp_free&hide_border=true" />
-</a>
-
-<a href="https://github.com/Matrtex/python_zf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrtex&repo=python_zf&hide_border=true" />
-</a>
-
-</div>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=default&username=Matrtex)
 
 ---
 
