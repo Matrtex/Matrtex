@@ -48,12 +48,11 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?show_icons=true&theme=default&username=Matrtex)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Matrtex&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=default&username=Matrtex)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Matrtex&theme=default&layout=compact&langs_count=8)
 
 ---
-
 
 <div align="center">
 
