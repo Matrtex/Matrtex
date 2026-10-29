@@ -58,9 +58,9 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Matrtex&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Matrtex&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Matrtex&theme=default&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matrtex&theme=default&layout=compact&langs_count=8)
 
 ---
 
